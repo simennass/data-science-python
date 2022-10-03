@@ -1,5 +1,6 @@
 # data-science-python
-An introductory course into data science using Python
+
+An introductory course into data science using Python. This course can either be used as a standalone course, or used in conjunction with [intro-python](https://github.com/alexdiem/intro-python), which replaces module 0, and gives a more thorough introuduction to programming in Python.
 
 ## Daily schedule
 
