@@ -20,7 +20,7 @@ An introductory course into data science using Python. This course can either be
 - Intro to Python, JupyterHub plattform
 - Basic programming skills in Python: Data types, variables, methods
 
-### Module 1: Introduction to data science in Python (6 hours)
+### Module 1: Introduction to data science in Python (7.5 hours)
 - Pandas: Data analysis in Python
 - Datavisualisation
 - GeoPandas: Geospatial data analysis, including visualisation
@@ -31,7 +31,7 @@ An introductory course into data science using Python. This course can either be
 - Navigating files and directories: copy, delete, space usage
 - File exploration: counting lines, reading the first/last line
  
-### Modul 3: Reproducible code using version control and Git (2.5 hours)
+### Modul 3: Reproducible code using version control and Git (3 hours)
 - Intro to version control: the philosophy behind reproducible code and problems solved
 - Intro to Git: setup, cloning repositories
 - Innlegging av endringer, committ med kommentar
