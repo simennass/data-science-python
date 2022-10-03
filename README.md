@@ -16,12 +16,15 @@ An introductory course into data science using Python. This course can either be
 
 ## Agenda
 
-### Modul 1: Introduction to data science in Python (6 hours)
+### Module 0: Introduction to Python (2 hours)
 - Intro to Python, JupyterHub plattform
 - Basic programming skills in Python: Data types, variables, methods
+
+### Module 1: Introduction to data science in Python (6 hours)
 - Pandas: Data analysis in Python
 - Datavisualisation
 - GeoPandas: Geospatial data analysis, including visualisation
+- Time series analysis: decomposition, seasonal effects
  
 ### Modul 2: Working with the bash command line (2 hours)
 - Why should you use the command line?
