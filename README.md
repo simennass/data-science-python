@@ -11,8 +11,8 @@ An introductory course into data science using Python. This course can either be
 | 10:45-11:30 | Lectures/Exercises |
 | 11:30-12:00 | Lunch |
 | 12:00-13:30 | Lectures/Exercises |
-| 14:00-14:15 | Break |
-| 14:15-15:30 | Lectures/Exercises |
+| 13:30-13:45 | Break |
+| 13:45-15:30 | Lectures/Exercises |
 
 ## Agenda
 
